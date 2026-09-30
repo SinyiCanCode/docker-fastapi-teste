@@ -1,0 +1,2 @@
+FastAPI → aplicação mínima → requirements.txt → Dockerfile → build → container → porta → teste → logs → alteração → rebuild
+
